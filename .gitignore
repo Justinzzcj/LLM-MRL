@@ -3,7 +3,8 @@ __pycache__/
 
 .vscode/
 
-dataset/
+dataset/SDWPF/*
+!dataset/SDWPF/README.md
 checkpoints/
 
 LLM_MRL*.txt
