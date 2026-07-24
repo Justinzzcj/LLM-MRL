@@ -1,0 +1,1 @@
+SDWPF is a dataset for wind power forecasting. It contains 35,280 records from 134 wind turbines, with a 10-minute interval between each data point.
